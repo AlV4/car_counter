@@ -1,0 +1,5 @@
+cvlib >= 0.2.2
+opencv-python >= 4.4.0.40
+tensorflow == 2.5.0rc3
+matplotlib >= 3.1.1
+Keras >= 2.2.5
